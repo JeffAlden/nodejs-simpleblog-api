@@ -1,1 +1,1 @@
-# JeffAlden-nodejs-simpleblog-api
+# nodejs-simpleblog-api
