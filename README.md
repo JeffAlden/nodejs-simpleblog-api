@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### README File (`README.md`)
 
 
@@ -32,3 +33,6 @@ DELETE /posts/{id} - Delete a specific blog post by ID.
 Ensure your MySQL server is running and the credentials in app.js are correct.
 
 For detailed API documentation, refer to the API.md file.
+=======
+# nodejs-simpleblog-api
+>>>>>>> 2ec646c63c7c877edda52ecdd8d6b48a48ed77d4
