@@ -15,7 +15,7 @@
   "author": "Alden"
 }
 
--Click Send.
+- Click Send.
 
 ## Get All Blog Posts:
 - Open Postman.
@@ -34,7 +34,7 @@
 - Set the method to PUT.
 - Enter the URL http://localhost:3000/posts/1.
 - Go to the Body tab, select raw and JSON.
-- Enter the JSON payload for the updated blog + - post.
+- Enter the JSON payload for the updated blog post.
 - Click Send.
 
 ## Delete a Blog Post by ID:
