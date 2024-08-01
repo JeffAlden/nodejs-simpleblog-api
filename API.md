@@ -26,13 +26,13 @@
 ## Get a Single Blog Post by ID:
 - Open Postman.
 - Set the method to GET.
-- Enter the URL http://localhost:3000/posts/1.
+- Enter the URL http://localhost:3000/posts/{id}
 - Click Send.
 
 ## Update a Blog Post by ID:
 - Open Postman.
 - Set the method to PUT.
-- Enter the URL http://localhost:3000/posts/1.
+- Enter the URL http://localhost:3000/posts/{id}
 - Go to the Body tab, select raw and JSON.
 - Enter the JSON payload for the updated blog post.
 - Click Send.
@@ -40,5 +40,5 @@
 ## Delete a Blog Post by ID:
 - Open Postman.
 - Set the method to DELETE.
-- Enter the URL http://localhost:3000/posts/1.
+- Enter the URL http://localhost:3000/posts/{id}
 - Click Send.
